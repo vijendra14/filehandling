@@ -23,6 +23,7 @@ public class Buffered
 		   if(a==4) 
 		   {
 			   System.out.println(s);
+			   System.out.println("file handling change");
 			   break;
 			   
 		   }
